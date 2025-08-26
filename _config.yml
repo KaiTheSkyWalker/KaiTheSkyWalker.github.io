@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Owen Lee"
+  pronouns         : he/him
+  bio              : "A student with a strong passion for leveraging LLMs and LLM agents to solve business problems and build innovative projects."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The Chinese University of Hong Kong, Shenzhen"
   uri              : # URL
   email            : "none@example.org" 
 
